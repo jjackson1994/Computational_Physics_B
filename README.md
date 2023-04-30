@@ -1,4 +1,6 @@
-This repository, holds the both our research project  and our solved exercises for the second semester Laboratory of Computational Physics course. 
+<img src="https://user-images.githubusercontent.com/23053125/202716851-80e424a3-57d7-4dda-9864-2d42a7a178ae.png" >
+This repository, holds the both our research project and our solved exercises for the second semester Laboratory of Computational Physics course.  
+[First semester] (https://github.com/jjackson1994/LaboratoryOfComputationalPhysics)
   
 This repo contains useful machine learning tools and there usage in a scientific context.  
 ### Exercises
